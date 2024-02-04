@@ -33,7 +33,7 @@ def click():
 
 root = Tk()
 root.title("Frame")
-root.iconbitmap("1.ico")
+root.iconbitmap("1.jpg")
 root.geometry("450x500")
 root.configure(background="#FFFFFF")
 
